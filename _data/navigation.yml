@@ -1,10 +1,13 @@
 # main links links
-main: 
-  - title: "Portfolio"
-    url: /portfolio/
-
+main:
   - title: "Projects"
     url: /projects/
 
   - title: "CV"
     url: /cv/
+  
+  - title: "🗂️ Resume"
+    url: /resume/
+
+  - title: "🔗 Website"
+    url: "https://portfolio-mehar.vercel.app/"

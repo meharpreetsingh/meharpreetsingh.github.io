@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 👨🏻‍💻 Skills
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 📱 __Flutter & Dart__
+  * Bloc, Provider, GetX, GetIt, nfc, Printer, ...
+* 🖥️ __Next.js, React.js, Javascript__
+* 💃🏻 __Tailwind, Sass__
+* 🗃️ __Firebase__
+  * Firebase Functions, Firestore, Authentication, ...
+* 🌐 __Node.js__
+  * Express, Restful APIs, discord.js, telegram-bot
+* 🗄️ __MongoDb, MySQL__
+* 📜 __Bash, Powershell__
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🎓 Education
+* ___Bachelors of Engineering___ in Computer Science & Engineering _(4 years)_
+  * _Sant Longowal Institute of Engineering & Technology, Sangrur, India_
+* ___Certificate & Diploma___ in Computer Science _(3 years)_
+  * _Sant Longowal Institute of Engineering & Technology, Sangrur, India_
+
+## 💼 Work experience
+* 09/2023 - present: __Tech Operations Developer__
+  * ***Platos Inc.***, *Remote*
+  * Implemented & Tested Flutter App using _Provider_, _GetIt_ & _go_router_
+  * Developed Firebase _Functions_ & _Streams_, & used _API's_ in Flutter
+  * Integrated: _NFC_, _Printer_, _POS Machine_, _Payment Gateway_
+
+* 02/2023 - 06/2023: __Frontend Developer__
+  * ***Brand Masterz***, *Hybrid*
+  * Successfully converted 2 web designs to full fledged websites & helped with production.
+  * Monitoring and improving front-end performance.
+
+* 02/2019 - 11/2022: __Contributor & Freelancer__
+  * *Remote*
+  * Closed source contributions in various companies including [Techeron](https://github.com/Techeron).
+  * Planned, designed & created a line of information management websites.
+  * Tested applications on multiple devices to ensure compatibility
+
+
