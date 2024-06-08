@@ -1,11 +1,12 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2024-06-07
 ---
 
 {% include base_path %}
-{% include toc %}
+
+<!-- {% include toc %} -->
 
 ## Privacy Policy
 
@@ -17,12 +18,12 @@ First and foremost, I will never share your email address or any other personal 
 
 Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+- Internet Protocol addresses (IP)
+- Types of browser
+- Internet Service Provider (ISP)
+- Date and time stamp
+- Referring and exit pages
+- Number of clicks
 
 All of this information is not linked to anything that is personally identifiable.
 
